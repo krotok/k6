@@ -1,0 +1,3 @@
+Установить Node.js
+Установить расширение Code Runner для VS Code
+Перезапустить VS Code
